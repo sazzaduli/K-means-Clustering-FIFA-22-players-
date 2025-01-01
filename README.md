@@ -1,5 +1,3 @@
-# K-means-Clustering-FIFA-22-players
-
 # Project Overview
 
 In this project, I explored FIFA 22 player data using K-means clustering, a simple yet powerful machine-learning technique. Clustering allows us to find patterns in data by grouping similar items together, and K-means is one of the most popular methods for this.
