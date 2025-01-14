@@ -28,7 +28,7 @@ To run a k-means clustering:
 
 # About the Dataset
 
-For my project, I’m using a dataset that includes detailed player stats from FIFA 15 to FIFA 22, covering every player in FIFA Career Mode. This dataset is perfect for comparing players across different years, like seeing how Messi and Ronaldo’s stats have evolved and how they align with real-life performance. It also lets me experiment with building competitive teams without overspending, helping me figure out when spending more doesn’t make a significant difference. Additionally, I can track how key player attributes like speed and ball control have changed over time, revealing which traits are becoming more important for top players. Overall, the dataset offers a fascinating way to explore football through data and trends.
+For my project, I’m using a dataset that includes detailed player stats from FIFA 22, covering every player in FIFA Career Mode. This dataset is perfect for comparing players across different years, like seeing how Messi and Ronaldo’s stats have evolved and how they align with real-life performance. It also lets me experiment with building competitive teams without overspending, helping me figure out when spending more doesn’t make a significant difference. Additionally, I can track how key player attributes like speed and ball control have changed over time, revealing which traits are becoming more important for top players. Overall, the dataset offers a fascinating way to explore football through data and trends.
 
 # Getting Started
 
